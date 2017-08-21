@@ -7,7 +7,7 @@
 "embeds": {
 		"author": {
 			"name": "{{AuthorName}}",
-			"url": "https://www.youtube.com/c/Zydash",
+			"url": "https://www.youtube.com/channel/UCmMxt-4sokWYrMBz9aoOeVw",
 			"icon_url": "https://yt3.ggpht.com/-ejrby8fjmLg/AAAAAAAAAAI/AAAAAAAAAAA/5QsM-AD5miQ/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
 		},
 		"description": "[Click here to see this video]({{Url}})",
